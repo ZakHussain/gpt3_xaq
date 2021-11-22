@@ -73,3 +73,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # Additional Resources: 
 https://angrytools.com/gradient/ - gradient tool 
 https://animista.net/play/basic/scale-up  - create nice basic animated interface
+
+http://getbem.com/introduction/ - in this app, I apply the BEM methodology to structuring CSS and UI. 
+BEM stands for BLOCK ELEMENT MODIFIER. 
+Block - standalone entitiy
+Element - a part of a block 
+Modifier - a flag on a block or element that changes the appearance or behavior
