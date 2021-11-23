@@ -71,11 +71,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 # Additional Resources: 
-https://angrytools.com/gradient/ - gradient tool 
-https://animista.net/play/basic/scale-up  - create nice basic animated interface
+1. https://angrytools.com/gradient/ - gradient tool 
+2. https://animista.net/play/basic/scale-up  - create nice basic animated interface
 
-http://getbem.com/introduction/ - in this app, I apply the BEM methodology to structuring CSS and UI. 
+3. http://getbem.com/introduction/ - in this app, I apply the BEM methodology to structuring CSS and UI. 
 BEM stands for BLOCK ELEMENT MODIFIER. 
 Block - standalone entitiy
 Element - a part of a block 
 Modifier - a flag on a block or element that changes the appearance or behavior
+
+4. Figma - designing the web application visual UI 
+
+5. Jest - https://jestjs.io/docs/getting-started, a way to test React front-end logic 
+
+
+6. react-intersection-observer: 
+https://www.youtube.com/watch?v=0Zlmpbh1s6o
+https://github.com/thebuilder/react-intersection-observer
+an API to tell you when an element enters or leaves the viewport.
+(note this library is 3 years old but seemingly useful)
