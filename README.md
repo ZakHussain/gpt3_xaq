@@ -1,6 +1,8 @@
-# This Repo contains the work I built through watchingt Javascript Mastery on youtube:
+This Repo contains the work I built through watchingt Javascript Mastery on youtube:
+
 https://www.youtube.com/watch?v=LMagNcngvcU
-# I Followed along and am now using this as a reference to building CSS around BEM naming conventions.
+
+I Followed along and am now using this as a reference to building CSS around BEM naming conventions.
 
 # Getting Started with Create React App
 
